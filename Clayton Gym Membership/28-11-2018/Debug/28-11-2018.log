@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (28-11-2018.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\owner\documents\visual studio 2015\projects\clayton gym membership\28-11-2018\source.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\owner\documents\visual studio 2015\projects\clayton gym membership\28-11-2018\source.cpp(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\owner\documents\visual studio 2015\projects\clayton gym membership\28-11-2018\source.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\owner\documents\visual studio 2015\projects\clayton gym membership\28-11-2018\source.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\owner\documents\visual studio 2015\projects\clayton gym membership\28-11-2018\source.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  28-11-2018.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2015\Projects\Clayton Gym Membership\Debug\Clayton Membership.exe
+  28-11-2018.vcxproj -> C:\Users\Owner\Documents\Visual Studio 2015\Projects\Clayton Gym Membership\Debug\Clayton Membership.pdb (Full PDB)
