@@ -20,5 +20,5 @@ details in a file and upon launching it reads them in
 
 ## Authors
 
-* **Blaine Burke** - *Creator* - [Blaine Burke](https://github.com/BurkeBlaine1999)
+* **[Blaine Burke](https://github.com/BurkeBlaine1999)** - *Creator*  
 
